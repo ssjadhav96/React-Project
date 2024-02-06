@@ -6,6 +6,6 @@ function sagar(a,b) {
 }
 const c= sagar(a,b);
 
-console.log(c)
+console.log(c);
 
 
